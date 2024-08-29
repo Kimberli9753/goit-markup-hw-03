@@ -76,6 +76,7 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .header-logo {
@@ -150,6 +151,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
   color: #fff;
   display: block;
   align-items: flex-start;
@@ -233,6 +235,7 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  margin-bottom: 8px;
 }
 
 .card-container {
